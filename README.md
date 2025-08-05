@@ -53,12 +53,17 @@ Credit card fraud is a persistent threat in financial systems. In this project:
   - `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `plotly`
 - **Notebook Tools**: Jupyter Notebook
 
-## 📎 Sample Code Snippet
-
-```python
-from sklearn.ensemble import IsolationForest
-model = IsolationForest(n_estimators=100, contamination=0.002, random_state=42)
-model.fit(X_train)
-y_pred = model.predict(X_test)
 
 
+
+## 👩‍💻 Author
+
+**Harmanjot Kaur**  
+🎓 ECE Undergraduate | Data Science & Risk Modeling Enthusiast  
+📧 harmanjotk738@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/harmanjot-kaur-2878b8265/)  
+📁 [GitHub](https://github.com/Harmanjot26)
+
+---
+
+> 🚀 *Feel free to fork or star this repository if you found it helpful!*
